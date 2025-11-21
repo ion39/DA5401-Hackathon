@@ -1,10 +1,10 @@
 # **DA5401 – 2025 Data Challenge**
 
-### **Team name: error ** 
+### Team name: error 
 
-### ** User Name: pragatilce22b089**
+### User Name: pragatilce22b089
 
-### Pragati L (CE22B089)**
+### Pragati L (CE22B089)
 
 
 ## **Overview**
