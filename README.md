@@ -49,6 +49,6 @@ Because the score distribution is highly skewed and often bimodal, the solution 
 ## **How to Use**
 
 1. Run `eda.ipynb` to explore the dataset.
-2. Run `embeddings_preparation.ipynb` to generate embeddings (or use precomputed `.npy` files).
-3. Execute `da5401_final_model.ipynb` to compute features, train LightGBM, and generate predictions.
+2. Run `embeddings.ipynb` to generate embeddings (or use precomputed `.npy` files).
+3. Execute `da5401.ipynb` to compute features, train LightGBM, and generate predictions.
 
